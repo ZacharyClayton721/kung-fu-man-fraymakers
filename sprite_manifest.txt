@@ -1,0 +1,840 @@
+sprites/palette_preview.png
+sprites/palette_preview.png.meta
+sprites/0_body pieces/body/character_body_arrow_forward.png
+sprites/0_body pieces/body/character_body_arrow_forward.png.meta
+sprites/0_body pieces/body/character_body_arrow_forward_up.png
+sprites/0_body pieces/body/character_body_arrow_forward_up.png.meta
+sprites/0_body pieces/body/character_body_circle.png
+sprites/0_body pieces/body/character_body_circle.png.meta
+sprites/0_body pieces/body/character_body_piece_point.png
+sprites/0_body pieces/body/character_body_piece_point.png.meta
+sprites/0_body pieces/body/character_body_piece_point_flat.png
+sprites/0_body pieces/body/character_body_piece_point_flat.png.meta
+sprites/0_body pieces/body/character_body_rectangle.png
+sprites/0_body pieces/body/character_body_rectangle.png.meta
+sprites/0_body pieces/body/character_body_rectangle_bend.png
+sprites/0_body pieces/body/character_body_rectangle_bend.png.meta
+sprites/0_body pieces/body/character_body_rectangle_bend_half.png
+sprites/0_body pieces/body/character_body_rectangle_bend_half.png.meta
+sprites/0_body pieces/body/character_body_rectangle_bend_more.png
+sprites/0_body pieces/body/character_body_rectangle_bend_more.png.meta
+sprites/0_body pieces/body/character_body_rectangle_bend_more_half.png
+sprites/0_body pieces/body/character_body_rectangle_bend_more_half.png.meta
+sprites/0_body pieces/body/character_body_rectangle_parry.png
+sprites/0_body pieces/body/character_body_rectangle_parry.png.meta
+sprites/0_body pieces/body/character_body_special_down_square.png
+sprites/0_body pieces/body/character_body_special_down_square.png.meta
+sprites/0_body pieces/body/character_body_special_down_square_light_0.png
+sprites/0_body pieces/body/character_body_special_down_square_light_0.png.meta
+sprites/0_body pieces/body/character_body_special_down_square_light_1.png
+sprites/0_body pieces/body/character_body_special_down_square_light_1.png.meta
+sprites/0_body pieces/face/character_face_000.png
+sprites/0_body pieces/face/character_face_000.png.meta
+sprites/0_body pieces/face/character_face_001.png
+sprites/0_body pieces/face/character_face_001.png.meta
+sprites/0_body pieces/face/character_face_002.png
+sprites/0_body pieces/face/character_face_002.png.meta
+sprites/0_body pieces/face/character_face_003.png
+sprites/0_body pieces/face/character_face_003.png.meta
+sprites/0_body pieces/face/character_face_004.png
+sprites/0_body pieces/face/character_face_004.png.meta
+sprites/0_body pieces/face/character_face_005.png
+sprites/0_body pieces/face/character_face_005.png.meta
+sprites/0_body pieces/face/character_face_006.png
+sprites/0_body pieces/face/character_face_006.png.meta
+sprites/0_body pieces/face/character_face_007.png
+sprites/0_body pieces/face/character_face_007.png.meta
+sprites/0_body pieces/face/character_face_008.png
+sprites/0_body pieces/face/character_face_008.png.meta
+sprites/0_body pieces/face/character_face_009.png
+sprites/0_body pieces/face/character_face_009.png.meta
+sprites/0_body pieces/face/character_face_010.png
+sprites/0_body pieces/face/character_face_010.png.meta
+sprites/0_body pieces/face/character_face_011.png
+sprites/0_body pieces/face/character_face_011.png.meta
+sprites/0_body pieces/face/character_face_012.png
+sprites/0_body pieces/face/character_face_012.png.meta
+sprites/0_body pieces/face/character_face_013.png
+sprites/0_body pieces/face/character_face_013.png.meta
+sprites/0_body pieces/face/character_face_014.png
+sprites/0_body pieces/face/character_face_014.png.meta
+sprites/0_body pieces/face/character_face_015.png
+sprites/0_body pieces/face/character_face_015.png.meta
+sprites/0_body pieces/face/character_face_016.png
+sprites/0_body pieces/face/character_face_016.png.meta
+sprites/0_body pieces/face/character_face_017.png
+sprites/0_body pieces/face/character_face_017.png.meta
+sprites/0_body pieces/face/character_face_018.png
+sprites/0_body pieces/face/character_face_018.png.meta
+sprites/Background/Raging Demon Black.png
+sprites/Background/Raging Demon Black.png.meta
+sprites/Hud/Bar1.png
+sprites/Hud/Bar1.png.meta
+sprites/Hud/Bar2.png
+sprites/Hud/Bar2.png.meta
+sprites/Hud/Bar3.png
+sprites/Hud/Bar3.png.meta
+sprites/Hud/Level 0.png
+sprites/Hud/Level 0.png.meta
+sprites/Hud/Level 1.png
+sprites/Hud/Level 1.png.meta
+sprites/Hud/Level 2.png
+sprites/Hud/Level 2.png.meta
+sprites/Hud/Level 3.png
+sprites/Hud/Level 3.png.meta
+sprites/Hud/Max1.png
+sprites/Hud/Max1.png.meta
+sprites/Hud/Max2.png
+sprites/Hud/Max2.png.meta
+sprites/Kung Fu Man Sprites/axis.txt
+sprites/Kung Fu Man Sprites/axis.txt.meta
+sprites/Kung Fu Man Sprites/kung fu man_0-0.png
+sprites/Kung Fu Man Sprites/kung fu man_0-0.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_0-1.png
+sprites/Kung Fu Man Sprites/kung fu man_0-1.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_0-2.png
+sprites/Kung Fu Man Sprites/kung fu man_0-2.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_0-3.png
+sprites/Kung Fu Man Sprites/kung fu man_0-3.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_0-4.png
+sprites/Kung Fu Man Sprites/kung fu man_0-4.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_0-5.png
+sprites/Kung Fu Man Sprites/kung fu man_0-5.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_100-0.png
+sprites/Kung Fu Man Sprites/kung fu man_100-0.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_100-1.png
+sprites/Kung Fu Man Sprites/kung fu man_100-1.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_100-2.png
+sprites/Kung Fu Man Sprites/kung fu man_100-2.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_100-3.png
+sprites/Kung Fu Man Sprites/kung fu man_100-3.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_100-4.png
+sprites/Kung Fu Man Sprites/kung fu man_100-4.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_100-5.png
+sprites/Kung Fu Man Sprites/kung fu man_100-5.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_1000-0.png
+sprites/Kung Fu Man Sprites/kung fu man_1000-0.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_1000-1.png
+sprites/Kung Fu Man Sprites/kung fu man_1000-1.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_1000-2.png
+sprites/Kung Fu Man Sprites/kung fu man_1000-2.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_1000-3.png
+sprites/Kung Fu Man Sprites/kung fu man_1000-3.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_1000-4.png
+sprites/Kung Fu Man Sprites/kung fu man_1000-4.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_1000-5.png
+sprites/Kung Fu Man Sprites/kung fu man_1000-5.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_1000-6.png
+sprites/Kung Fu Man Sprites/kung fu man_1000-6.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_1000-7.png
+sprites/Kung Fu Man Sprites/kung fu man_1000-7.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_1050-0.png
+sprites/Kung Fu Man Sprites/kung fu man_1050-0.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_1050-1.png
+sprites/Kung Fu Man Sprites/kung fu man_1050-1.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_1050-2.png
+sprites/Kung Fu Man Sprites/kung fu man_1050-2.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_1050-3.png
+sprites/Kung Fu Man Sprites/kung fu man_1050-3.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_1050-4.png
+sprites/Kung Fu Man Sprites/kung fu man_1050-4.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_1050-5.png
+sprites/Kung Fu Man Sprites/kung fu man_1050-5.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_1050-6.png
+sprites/Kung Fu Man Sprites/kung fu man_1050-6.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_1050-7.png
+sprites/Kung Fu Man Sprites/kung fu man_1050-7.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_1052-0.png
+sprites/Kung Fu Man Sprites/kung fu man_1052-0.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_1052-1.png
+sprites/Kung Fu Man Sprites/kung fu man_1052-1.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_1052-2.png
+sprites/Kung Fu Man Sprites/kung fu man_1052-2.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_1052-3.png
+sprites/Kung Fu Man Sprites/kung fu man_1052-3.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_1055-0.png
+sprites/Kung Fu Man Sprites/kung fu man_1055-0.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_1055-1.png
+sprites/Kung Fu Man Sprites/kung fu man_1055-1.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_1055-2.png
+sprites/Kung Fu Man Sprites/kung fu man_1055-2.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_1055-3.png
+sprites/Kung Fu Man Sprites/kung fu man_1055-3.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_1055-4.png
+sprites/Kung Fu Man Sprites/kung fu man_1055-4.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_1055-5.png
+sprites/Kung Fu Man Sprites/kung fu man_1055-5.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_1055-6.png
+sprites/Kung Fu Man Sprites/kung fu man_1055-6.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_1055-7.png
+sprites/Kung Fu Man Sprites/kung fu man_1055-7.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_11-0.png
+sprites/Kung Fu Man Sprites/kung fu man_11-0.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_11-1.png
+sprites/Kung Fu Man Sprites/kung fu man_11-1.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_11-2.png
+sprites/Kung Fu Man Sprites/kung fu man_11-2.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_1100-0.png
+sprites/Kung Fu Man Sprites/kung fu man_1100-0.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_1100-1.png
+sprites/Kung Fu Man Sprites/kung fu man_1100-1.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_1100-2.png
+sprites/Kung Fu Man Sprites/kung fu man_1100-2.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_1100-3.png
+sprites/Kung Fu Man Sprites/kung fu man_1100-3.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_1100-4.png
+sprites/Kung Fu Man Sprites/kung fu man_1100-4.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_1100-5.png
+sprites/Kung Fu Man Sprites/kung fu man_1100-5.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_1100-6.png
+sprites/Kung Fu Man Sprites/kung fu man_1100-6.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_1100-7.png
+sprites/Kung Fu Man Sprites/kung fu man_1100-7.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_1100-8.png
+sprites/Kung Fu Man Sprites/kung fu man_1100-8.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_1100-9.png
+sprites/Kung Fu Man Sprites/kung fu man_1100-9.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_120-0.png
+sprites/Kung Fu Man Sprites/kung fu man_120-0.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_120-1.png
+sprites/Kung Fu Man Sprites/kung fu man_120-1.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_120-2.png
+sprites/Kung Fu Man Sprites/kung fu man_120-2.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_121-0.png
+sprites/Kung Fu Man Sprites/kung fu man_121-0.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_1210-0.png
+sprites/Kung Fu Man Sprites/kung fu man_1210-0.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_1210-1.png
+sprites/Kung Fu Man Sprites/kung fu man_1210-1.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_1210-2.png
+sprites/Kung Fu Man Sprites/kung fu man_1210-2.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_1210-3.png
+sprites/Kung Fu Man Sprites/kung fu man_1210-3.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_1210-4.png
+sprites/Kung Fu Man Sprites/kung fu man_1210-4.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_1210-5.png
+sprites/Kung Fu Man Sprites/kung fu man_1210-5.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_1210-6.png
+sprites/Kung Fu Man Sprites/kung fu man_1210-6.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_122-0.png
+sprites/Kung Fu Man Sprites/kung fu man_122-0.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_1300-0.png
+sprites/Kung Fu Man Sprites/kung fu man_1300-0.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_1300-1.png
+sprites/Kung Fu Man Sprites/kung fu man_1300-1.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_1300-2.png
+sprites/Kung Fu Man Sprites/kung fu man_1300-2.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_1320-0.png
+sprites/Kung Fu Man Sprites/kung fu man_1320-0.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_1320-1.png
+sprites/Kung Fu Man Sprites/kung fu man_1320-1.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_1320-2.png
+sprites/Kung Fu Man Sprites/kung fu man_1320-2.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_1340-0.png
+sprites/Kung Fu Man Sprites/kung fu man_1340-0.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_1340-1.png
+sprites/Kung Fu Man Sprites/kung fu man_1340-1.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_1400-0.png
+sprites/Kung Fu Man Sprites/kung fu man_1400-0.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_1400-1.png
+sprites/Kung Fu Man Sprites/kung fu man_1400-1.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_1400-2.png
+sprites/Kung Fu Man Sprites/kung fu man_1400-2.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_1400-3.png
+sprites/Kung Fu Man Sprites/kung fu man_1400-3.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_1400-4.png
+sprites/Kung Fu Man Sprites/kung fu man_1400-4.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_1400-5.png
+sprites/Kung Fu Man Sprites/kung fu man_1400-5.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_1400-6.png
+sprites/Kung Fu Man Sprites/kung fu man_1400-6.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_1400-7.png
+sprites/Kung Fu Man Sprites/kung fu man_1400-7.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_181-0.png
+sprites/Kung Fu Man Sprites/kung fu man_181-0.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_181-1.png
+sprites/Kung Fu Man Sprites/kung fu man_181-1.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_181-2.png
+sprites/Kung Fu Man Sprites/kung fu man_181-2.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_181-3.png
+sprites/Kung Fu Man Sprites/kung fu man_181-3.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_181-4.png
+sprites/Kung Fu Man Sprites/kung fu man_181-4.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_181-5.png
+sprites/Kung Fu Man Sprites/kung fu man_181-5.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_181-6.png
+sprites/Kung Fu Man Sprites/kung fu man_181-6.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_191-0.png
+sprites/Kung Fu Man Sprites/kung fu man_191-0.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_191-1.png
+sprites/Kung Fu Man Sprites/kung fu man_191-1.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_191-2.png
+sprites/Kung Fu Man Sprites/kung fu man_191-2.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_191-3.png
+sprites/Kung Fu Man Sprites/kung fu man_191-3.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_192-0.png
+sprites/Kung Fu Man Sprites/kung fu man_192-0.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_192-1.png
+sprites/Kung Fu Man Sprites/kung fu man_192-1.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_20-0.png
+sprites/Kung Fu Man Sprites/kung fu man_20-0.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_20-1.png
+sprites/Kung Fu Man Sprites/kung fu man_20-1.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_20-10.png
+sprites/Kung Fu Man Sprites/kung fu man_20-10.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_20-11.png
+sprites/Kung Fu Man Sprites/kung fu man_20-11.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_20-12.png
+sprites/Kung Fu Man Sprites/kung fu man_20-12.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_20-13.png
+sprites/Kung Fu Man Sprites/kung fu man_20-13.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_20-14.png
+sprites/Kung Fu Man Sprites/kung fu man_20-14.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_20-15.png
+sprites/Kung Fu Man Sprites/kung fu man_20-15.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_20-2.png
+sprites/Kung Fu Man Sprites/kung fu man_20-2.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_20-3.png
+sprites/Kung Fu Man Sprites/kung fu man_20-3.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_20-4.png
+sprites/Kung Fu Man Sprites/kung fu man_20-4.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_20-5.png
+sprites/Kung Fu Man Sprites/kung fu man_20-5.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_20-6.png
+sprites/Kung Fu Man Sprites/kung fu man_20-6.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_20-7.png
+sprites/Kung Fu Man Sprites/kung fu man_20-7.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_20-8.png
+sprites/Kung Fu Man Sprites/kung fu man_20-8.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_20-9.png
+sprites/Kung Fu Man Sprites/kung fu man_20-9.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_200-0.png
+sprites/Kung Fu Man Sprites/kung fu man_200-0.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_200-1.png
+sprites/Kung Fu Man Sprites/kung fu man_200-1.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_200-2.png
+sprites/Kung Fu Man Sprites/kung fu man_200-2.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_21-0.png
+sprites/Kung Fu Man Sprites/kung fu man_21-0.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_21-1.png
+sprites/Kung Fu Man Sprites/kung fu man_21-1.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_21-10.png
+sprites/Kung Fu Man Sprites/kung fu man_21-10.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_21-11.png
+sprites/Kung Fu Man Sprites/kung fu man_21-11.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_21-12.png
+sprites/Kung Fu Man Sprites/kung fu man_21-12.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_21-13.png
+sprites/Kung Fu Man Sprites/kung fu man_21-13.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_21-14.png
+sprites/Kung Fu Man Sprites/kung fu man_21-14.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_21-15.png
+sprites/Kung Fu Man Sprites/kung fu man_21-15.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_21-2.png
+sprites/Kung Fu Man Sprites/kung fu man_21-2.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_21-3.png
+sprites/Kung Fu Man Sprites/kung fu man_21-3.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_21-4.png
+sprites/Kung Fu Man Sprites/kung fu man_21-4.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_21-5.png
+sprites/Kung Fu Man Sprites/kung fu man_21-5.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_21-6.png
+sprites/Kung Fu Man Sprites/kung fu man_21-6.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_21-7.png
+sprites/Kung Fu Man Sprites/kung fu man_21-7.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_21-8.png
+sprites/Kung Fu Man Sprites/kung fu man_21-8.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_21-9.png
+sprites/Kung Fu Man Sprites/kung fu man_21-9.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_210-0.png
+sprites/Kung Fu Man Sprites/kung fu man_210-0.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_210-1.png
+sprites/Kung Fu Man Sprites/kung fu man_210-1.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_210-2.png
+sprites/Kung Fu Man Sprites/kung fu man_210-2.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_210-3.png
+sprites/Kung Fu Man Sprites/kung fu man_210-3.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_210-4.png
+sprites/Kung Fu Man Sprites/kung fu man_210-4.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_210-5.png
+sprites/Kung Fu Man Sprites/kung fu man_210-5.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_230-0.png
+sprites/Kung Fu Man Sprites/kung fu man_230-0.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_230-1.png
+sprites/Kung Fu Man Sprites/kung fu man_230-1.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_230-2.png
+sprites/Kung Fu Man Sprites/kung fu man_230-2.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_240-0.png
+sprites/Kung Fu Man Sprites/kung fu man_240-0.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_240-1.png
+sprites/Kung Fu Man Sprites/kung fu man_240-1.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_240-2.png
+sprites/Kung Fu Man Sprites/kung fu man_240-2.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_240-3.png
+sprites/Kung Fu Man Sprites/kung fu man_240-3.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_240-4.png
+sprites/Kung Fu Man Sprites/kung fu man_240-4.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_240-5.png
+sprites/Kung Fu Man Sprites/kung fu man_240-5.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_400-0.png
+sprites/Kung Fu Man Sprites/kung fu man_400-0.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_400-1.png
+sprites/Kung Fu Man Sprites/kung fu man_400-1.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_41-0.png
+sprites/Kung Fu Man Sprites/kung fu man_41-0.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_41-1.png
+sprites/Kung Fu Man Sprites/kung fu man_41-1.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_41-2.png
+sprites/Kung Fu Man Sprites/kung fu man_41-2.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_41-3.png
+sprites/Kung Fu Man Sprites/kung fu man_41-3.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_41-4.png
+sprites/Kung Fu Man Sprites/kung fu man_41-4.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_41-5.png
+sprites/Kung Fu Man Sprites/kung fu man_41-5.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_41-6.png
+sprites/Kung Fu Man Sprites/kung fu man_41-6.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_41-7.png
+sprites/Kung Fu Man Sprites/kung fu man_41-7.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_41-8.png
+sprites/Kung Fu Man Sprites/kung fu man_41-8.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_410-0.png
+sprites/Kung Fu Man Sprites/kung fu man_410-0.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_410-1.png
+sprites/Kung Fu Man Sprites/kung fu man_410-1.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_410-2.png
+sprites/Kung Fu Man Sprites/kung fu man_410-2.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_410-3.png
+sprites/Kung Fu Man Sprites/kung fu man_410-3.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_410-4.png
+sprites/Kung Fu Man Sprites/kung fu man_410-4.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_42-0.png
+sprites/Kung Fu Man Sprites/kung fu man_42-0.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_42-1.png
+sprites/Kung Fu Man Sprites/kung fu man_42-1.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_42-2.png
+sprites/Kung Fu Man Sprites/kung fu man_42-2.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_42-3.png
+sprites/Kung Fu Man Sprites/kung fu man_42-3.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_42-4.png
+sprites/Kung Fu Man Sprites/kung fu man_42-4.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_42-5.png
+sprites/Kung Fu Man Sprites/kung fu man_42-5.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_43-0.png
+sprites/Kung Fu Man Sprites/kung fu man_43-0.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_43-1.png
+sprites/Kung Fu Man Sprites/kung fu man_43-1.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_430-0.png
+sprites/Kung Fu Man Sprites/kung fu man_430-0.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_430-1.png
+sprites/Kung Fu Man Sprites/kung fu man_430-1.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_430-2.png
+sprites/Kung Fu Man Sprites/kung fu man_430-2.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_430-3.png
+sprites/Kung Fu Man Sprites/kung fu man_430-3.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_440-0.png
+sprites/Kung Fu Man Sprites/kung fu man_440-0.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_440-1.png
+sprites/Kung Fu Man Sprites/kung fu man_440-1.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_440-2.png
+sprites/Kung Fu Man Sprites/kung fu man_440-2.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_440-3.png
+sprites/Kung Fu Man Sprites/kung fu man_440-3.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_440-4.png
+sprites/Kung Fu Man Sprites/kung fu man_440-4.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_440-5.png
+sprites/Kung Fu Man Sprites/kung fu man_440-5.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_440-6.png
+sprites/Kung Fu Man Sprites/kung fu man_440-6.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5-0.png
+sprites/Kung Fu Man Sprites/kung fu man_5-0.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5000-0.png
+sprites/Kung Fu Man Sprites/kung fu man_5000-0.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5000-10.png
+sprites/Kung Fu Man Sprites/kung fu man_5000-10.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5000-11.png
+sprites/Kung Fu Man Sprites/kung fu man_5000-11.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5000-20.png
+sprites/Kung Fu Man Sprites/kung fu man_5000-20.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5000-21.png
+sprites/Kung Fu Man Sprites/kung fu man_5000-21.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5001-0.png
+sprites/Kung Fu Man Sprites/kung fu man_5001-0.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5001-10.png
+sprites/Kung Fu Man Sprites/kung fu man_5001-10.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5001-20.png
+sprites/Kung Fu Man Sprites/kung fu man_5001-20.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5002-0.png
+sprites/Kung Fu Man Sprites/kung fu man_5002-0.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5002-10.png
+sprites/Kung Fu Man Sprites/kung fu man_5002-10.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5002-20.png
+sprites/Kung Fu Man Sprites/kung fu man_5002-20.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5010-0.png
+sprites/Kung Fu Man Sprites/kung fu man_5010-0.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5010-10.png
+sprites/Kung Fu Man Sprites/kung fu man_5010-10.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5010-20.png
+sprites/Kung Fu Man Sprites/kung fu man_5010-20.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5010-21.png
+sprites/Kung Fu Man Sprites/kung fu man_5010-21.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5011-0.png
+sprites/Kung Fu Man Sprites/kung fu man_5011-0.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5011-10.png
+sprites/Kung Fu Man Sprites/kung fu man_5011-10.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5011-20.png
+sprites/Kung Fu Man Sprites/kung fu man_5011-20.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5012-0.png
+sprites/Kung Fu Man Sprites/kung fu man_5012-0.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5012-10.png
+sprites/Kung Fu Man Sprites/kung fu man_5012-10.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5012-20.png
+sprites/Kung Fu Man Sprites/kung fu man_5012-20.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5020-0.png
+sprites/Kung Fu Man Sprites/kung fu man_5020-0.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5020-10.png
+sprites/Kung Fu Man Sprites/kung fu man_5020-10.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5020-20.png
+sprites/Kung Fu Man Sprites/kung fu man_5020-20.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5030-0.png
+sprites/Kung Fu Man Sprites/kung fu man_5030-0.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5030-10.png
+sprites/Kung Fu Man Sprites/kung fu man_5030-10.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5030-20.png
+sprites/Kung Fu Man Sprites/kung fu man_5030-20.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5030-30.png
+sprites/Kung Fu Man Sprites/kung fu man_5030-30.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5030-31.png
+sprites/Kung Fu Man Sprites/kung fu man_5030-31.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5030-40.png
+sprites/Kung Fu Man Sprites/kung fu man_5030-40.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5030-50.png
+sprites/Kung Fu Man Sprites/kung fu man_5030-50.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5031-0.png
+sprites/Kung Fu Man Sprites/kung fu man_5031-0.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5031-10.png
+sprites/Kung Fu Man Sprites/kung fu man_5031-10.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5031-20.png
+sprites/Kung Fu Man Sprites/kung fu man_5031-20.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5031-30.png
+sprites/Kung Fu Man Sprites/kung fu man_5031-30.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5031-40.png
+sprites/Kung Fu Man Sprites/kung fu man_5031-40.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5031-50.png
+sprites/Kung Fu Man Sprites/kung fu man_5031-50.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5032-0.png
+sprites/Kung Fu Man Sprites/kung fu man_5032-0.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5032-10.png
+sprites/Kung Fu Man Sprites/kung fu man_5032-10.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5032-20.png
+sprites/Kung Fu Man Sprites/kung fu man_5032-20.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5032-30.png
+sprites/Kung Fu Man Sprites/kung fu man_5032-30.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5032-40.png
+sprites/Kung Fu Man Sprites/kung fu man_5032-40.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5032-50.png
+sprites/Kung Fu Man Sprites/kung fu man_5032-50.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5040-0.png
+sprites/Kung Fu Man Sprites/kung fu man_5040-0.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5040-1.png
+sprites/Kung Fu Man Sprites/kung fu man_5040-1.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5040-10.png
+sprites/Kung Fu Man Sprites/kung fu man_5040-10.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5040-11.png
+sprites/Kung Fu Man Sprites/kung fu man_5040-11.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5040-20.png
+sprites/Kung Fu Man Sprites/kung fu man_5040-20.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5041-0.png
+sprites/Kung Fu Man Sprites/kung fu man_5041-0.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5041-10.png
+sprites/Kung Fu Man Sprites/kung fu man_5041-10.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5041-20.png
+sprites/Kung Fu Man Sprites/kung fu man_5041-20.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5042-0.png
+sprites/Kung Fu Man Sprites/kung fu man_5042-0.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5042-10.png
+sprites/Kung Fu Man Sprites/kung fu man_5042-10.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5042-20.png
+sprites/Kung Fu Man Sprites/kung fu man_5042-20.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5060-0.png
+sprites/Kung Fu Man Sprites/kung fu man_5060-0.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5060-1.png
+sprites/Kung Fu Man Sprites/kung fu man_5060-1.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5060-10.png
+sprites/Kung Fu Man Sprites/kung fu man_5060-10.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5061-0.png
+sprites/Kung Fu Man Sprites/kung fu man_5061-0.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5061-10.png
+sprites/Kung Fu Man Sprites/kung fu man_5061-10.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5062-0.png
+sprites/Kung Fu Man Sprites/kung fu man_5062-0.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5062-10.png
+sprites/Kung Fu Man Sprites/kung fu man_5062-10.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5070-0.png
+sprites/Kung Fu Man Sprites/kung fu man_5070-0.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5070-10.png
+sprites/Kung Fu Man Sprites/kung fu man_5070-10.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5070-20.png
+sprites/Kung Fu Man Sprites/kung fu man_5070-20.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5071-0.png
+sprites/Kung Fu Man Sprites/kung fu man_5071-0.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5071-10.png
+sprites/Kung Fu Man Sprites/kung fu man_5071-10.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5071-20.png
+sprites/Kung Fu Man Sprites/kung fu man_5071-20.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5072-0.png
+sprites/Kung Fu Man Sprites/kung fu man_5072-0.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5072-10.png
+sprites/Kung Fu Man Sprites/kung fu man_5072-10.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5072-20.png
+sprites/Kung Fu Man Sprites/kung fu man_5072-20.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5300-0.png
+sprites/Kung Fu Man Sprites/kung fu man_5300-0.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5300-1.png
+sprites/Kung Fu Man Sprites/kung fu man_5300-1.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5300-2.png
+sprites/Kung Fu Man Sprites/kung fu man_5300-2.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_5300-3.png
+sprites/Kung Fu Man Sprites/kung fu man_5300-3.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_6-0.png
+sprites/Kung Fu Man Sprites/kung fu man_6-0.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_600-0.png
+sprites/Kung Fu Man Sprites/kung fu man_600-0.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_600-1.png
+sprites/Kung Fu Man Sprites/kung fu man_600-1.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_610-0.png
+sprites/Kung Fu Man Sprites/kung fu man_610-0.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_610-1.png
+sprites/Kung Fu Man Sprites/kung fu man_610-1.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_610-2.png
+sprites/Kung Fu Man Sprites/kung fu man_610-2.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_610-3.png
+sprites/Kung Fu Man Sprites/kung fu man_610-3.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_630-1.png
+sprites/Kung Fu Man Sprites/kung fu man_630-1.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_630-2.png
+sprites/Kung Fu Man Sprites/kung fu man_630-2.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_640-0.png
+sprites/Kung Fu Man Sprites/kung fu man_640-0.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_640-1.png
+sprites/Kung Fu Man Sprites/kung fu man_640-1.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_640-2.png
+sprites/Kung Fu Man Sprites/kung fu man_640-2.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_800-0.png
+sprites/Kung Fu Man Sprites/kung fu man_800-0.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_800-1.png
+sprites/Kung Fu Man Sprites/kung fu man_800-1.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_800-10.png
+sprites/Kung Fu Man Sprites/kung fu man_800-10.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_800-11.png
+sprites/Kung Fu Man Sprites/kung fu man_800-11.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_800-12.png
+sprites/Kung Fu Man Sprites/kung fu man_800-12.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_800-2.png
+sprites/Kung Fu Man Sprites/kung fu man_800-2.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_800-3.png
+sprites/Kung Fu Man Sprites/kung fu man_800-3.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_800-4.png
+sprites/Kung Fu Man Sprites/kung fu man_800-4.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_800-5.png
+sprites/Kung Fu Man Sprites/kung fu man_800-5.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_800-6.png
+sprites/Kung Fu Man Sprites/kung fu man_800-6.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_800-7.png
+sprites/Kung Fu Man Sprites/kung fu man_800-7.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_800-8.png
+sprites/Kung Fu Man Sprites/kung fu man_800-8.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_800-9.png
+sprites/Kung Fu Man Sprites/kung fu man_800-9.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_9000-0.png
+sprites/Kung Fu Man Sprites/kung fu man_9000-0.png.meta
+sprites/Kung Fu Man Sprites/kung fu man_9000-1.png
+sprites/Kung Fu Man Sprites/kung fu man_9000-1.png.meta
+sprites/Motions/stand/character_stand_000.png
+sprites/Motions/stand/character_stand_000.png.meta
+sprites/Motions/stand/character_stand_001.png
+sprites/Motions/stand/character_stand_001.png.meta
+sprites/Motions/stand/character_stand_002.png
+sprites/Motions/stand/character_stand_002.png.meta
+sprites/Motions/stand/character_stand_003.png
+sprites/Motions/stand/character_stand_003.png.meta
+sprites/Motions/stand/character_stand_004.png
+sprites/Motions/stand/character_stand_004.png.meta
+sprites/Motions/stand/character_stand_005.png
+sprites/Motions/stand/character_stand_005.png.meta
+sprites/superart/30033.png
+sprites/superart/30033.png.meta
+sprites/superart/30034.png
+sprites/superart/30034.png.meta
+sprites/superart/30035.png
+sprites/superart/30035.png.meta
+sprites/superart/30036.png
+sprites/superart/30036.png.meta
+sprites/superart/30037.png
+sprites/superart/30037.png.meta
+sprites/superart/30038.png
+sprites/superart/30038.png.meta
+sprites/superart/30039.png
+sprites/superart/30039.png.meta
+sprites/superart/30040.png
+sprites/superart/30040.png.meta
+sprites/superart/30041.png
+sprites/superart/30041.png.meta
+sprites/superart/30042.png
+sprites/superart/30042.png.meta
+sprites/superart/30043.png
+sprites/superart/30043.png.meta
+sprites/superart/30044.png
+sprites/superart/30044.png.meta
+sprites/superart/30045.png
+sprites/superart/30045.png.meta
+sprites/superart/30046.png
+sprites/superart/30046.png.meta
+sprites/superart/30047.png
+sprites/superart/30047.png.meta
+sprites/superart/30048.png
+sprites/superart/30048.png.meta
+sprites/superart/30049.png
+sprites/superart/30049.png.meta
+sprites/superart/30050.png
+sprites/superart/30050.png.meta
+sprites/superart/30051.png
+sprites/superart/30051.png.meta
+sprites/superart/30052.png
+sprites/superart/30052.png.meta
+sprites/superart/30053.png
+sprites/superart/30053.png.meta
+sprites/superart/30265.png
+sprites/superart/30265.png.meta
+sprites/superart/30266.png
+sprites/superart/30266.png.meta
+sprites/superart/30267.png
+sprites/superart/30267.png.meta
+sprites/superart/30268.png
+sprites/superart/30268.png.meta
+sprites/superart/30269.png
+sprites/superart/30269.png.meta
+sprites/superart/30270.png
+sprites/superart/30270.png.meta
+sprites/superart/30271.png
+sprites/superart/30271.png.meta
+sprites/superart/30272.png
+sprites/superart/30272.png.meta
+sprites/superart/30273.png
+sprites/superart/30273.png.meta
+sprites/superart/30274.png
+sprites/superart/30274.png.meta
+sprites/superart/30275.png
+sprites/superart/30275.png.meta
+sprites/superart/30276.png
+sprites/superart/30276.png.meta
+sprites/superart/30277.png
+sprites/superart/30277.png.meta
+sprites/superart/30278.png
+sprites/superart/30278.png.meta
+sprites/superart/30279.png
+sprites/superart/30279.png.meta
+sprites/superart/30280.png
+sprites/superart/30280.png.meta
+sprites/superart/30281.png
+sprites/superart/30281.png.meta
+sprites/superart/30282.png
+sprites/superart/30282.png.meta
+sprites/superart/30283.png
+sprites/superart/30283.png.meta
+sprites/superart/30284.png
+sprites/superart/30284.png.meta
+sprites/superart/30285.png
+sprites/superart/30285.png.meta
+sprites/superart/30286.png
+sprites/superart/30286.png.meta
+sprites/superart/30287.png
+sprites/superart/30287.png.meta
+sprites/superart/30288.png
+sprites/superart/30288.png.meta
+sprites/superart/30289.png
+sprites/superart/30289.png.meta
+sprites/superart/30290.png
+sprites/superart/30290.png.meta
+sprites/superart/30291.png
+sprites/superart/30291.png.meta
+sprites/superart/30292.png
+sprites/superart/30292.png.meta
+sprites/superart/30293.png
+sprites/superart/30293.png.meta
+sprites/superart/30294.png
+sprites/superart/30294.png.meta
+sprites/superart/30295.png
+sprites/superart/30295.png.meta
+sprites/superart/30296.png
+sprites/superart/30296.png.meta
+sprites/superart/30297.png
+sprites/superart/30297.png.meta
+sprites/superart/30298.png
+sprites/superart/30298.png.meta
+sprites/superart/30299.png
+sprites/superart/30299.png.meta
+sprites/superart/30300.png
+sprites/superart/30300.png.meta
+sprites/superart/30301.png
+sprites/superart/30301.png.meta
+sprites/superart/30302.png
+sprites/superart/30302.png.meta
+sprites/superart/30303.png
+sprites/superart/30303.png.meta
+sprites/superart/30304.png
+sprites/superart/30304.png.meta
+sprites/superart/30305.png
+sprites/superart/30305.png.meta
+sprites/superart/30306.png
+sprites/superart/30306.png.meta
+sprites/superart/30307.png
+sprites/superart/30307.png.meta
+sprites/superart/30308.png
+sprites/superart/30308.png.meta
+sprites/superart/30309.png
+sprites/superart/30309.png.meta
+sprites/superart/30310.png
+sprites/superart/30310.png.meta
+sprites/superart/30311.png
+sprites/superart/30311.png.meta
+sprites/superart/30312.png
+sprites/superart/30312.png.meta
+sprites/superart/30313.png
+sprites/superart/30313.png.meta
+sprites/superart/30314.png
+sprites/superart/30314.png.meta
+sprites/superart/30315.png
+sprites/superart/30315.png.meta
+sprites/superart/30316.png
+sprites/superart/30316.png.meta
+sprites/superart/30317.png
+sprites/superart/30317.png.meta
+sprites/superart/30318.png
+sprites/superart/30318.png.meta
+sprites/UI/full.png
+sprites/UI/full.png.meta
+sprites/UI/hud.png
+sprites/UI/hud.png.meta
+sprites/UI/hud_000.png
+sprites/UI/hud_000.png.meta
+sprites/UI/hud_001.png
+sprites/UI/hud_001.png.meta
+sprites/UI/hud_002.png
+sprites/UI/hud_002.png.meta
+sprites/UI/hud_003.png
+sprites/UI/hud_003.png.meta
+sprites/UI/hud_004.png
+sprites/UI/hud_004.png.meta
+sprites/UI/hud_angry.png
+sprites/UI/hud_angry.png.meta
+sprites/UI/hud_happy.png
+sprites/UI/hud_happy.png.meta
+sprites/UI/hud_hurt.png
+sprites/UI/hud_hurt.png.meta
+sprites/UI/hud_sad.png
+sprites/UI/hud_sad.png.meta
+sprites/UI/icon.png
+sprites/UI/icon.png.meta
+sprites/UI/icon_no_palette.png
+sprites/UI/icon_no_palette.png.meta

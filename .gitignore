@@ -1,2 +1,6 @@
 # Build Ignore
-"Kung FU Man/build/"
+Kung Fu Man/build/*
+
+# Ignore Sprites Folder
+Kung Fu Man/library/sprites/*
+Kung Fu Man/library/audio/*

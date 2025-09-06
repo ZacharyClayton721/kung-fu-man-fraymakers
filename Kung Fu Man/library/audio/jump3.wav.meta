@@ -1,0 +1,16 @@
+{
+  "export": true,
+  "guid": "419f4749-ea42-4ff7-b417-1969e4788b6a",
+  "id": "jump3",
+  "pluginMetadata": {
+    "com.fraymakers.FraymakersMetadata": {
+      "version": "0.1.1"
+    }
+  },
+  "plugins": [
+    "com.fraymakers.FraymakersMetadata"
+  ],
+  "tags": [
+  ],
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "export": true,
+  "guid": "96eed486-7831-4c69-8642-01c854500e69",
+  "id": "downspecial",
+  "pluginMetadata": {
+    "com.fraymakers.FraymakersMetadata": {
+      "version": "0.1.1"
+    }
+  },
+  "plugins": [
+    "com.fraymakers.FraymakersMetadata"
+  ],
+  "tags": [
+  ],
+  "version": 1
+}

@@ -49,8 +49,8 @@
 		hitbox1: { damage: 4, angle: 361, baseKnockback: 40, knockbackGrowth: 45, hitstop:-1, selfHitstop:-1, limb:AttackLimb.FOOT}
 	},
 	aerial_forward: {
-		hitbox0: { damage: 16, angle: 40, knockbackGrowth: 50, baseKnockback: 60, hitstop: -1, selfHitstop: -1, limb:AttackLimb.FOOT },
-		hitbox1: { damage: 5, angle: 361, knockbackGrowth: 50, baseKnockback: 40, hitstop: -1, selfHitstop: -1, limb:AttackLimb.FOOT}
+		hitbox0: { damage: 8, angle: 35, knockbackGrowth: 20, baseKnockback: 50, hitstop: -1, selfHitstop: -1, limb:AttackLimb.FOOT },
+		hitbox1: { damage: 8, angle: 35, knockbackGrowth: 20, baseKnockback: 50, hitstop: -1, selfHitstop: -1, limb:AttackLimb.FOOT}
 	},
 	aerial_back: {
 		hitbox0: { damage: 8, angle: 40, baseKnockback: 45, knockbackGrowth: 70, hitstop:-1, selfHitstop:-1,  limb:AttackLimb.FOOT },

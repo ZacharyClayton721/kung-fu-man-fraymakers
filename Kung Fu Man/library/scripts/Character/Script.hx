@@ -147,6 +147,7 @@ var checked = false;
 function update() {
 
     // Auto Turn-Around Code
+    /*
 	var playerCount = self.getFoes();
     if (playerCount.length == 1) {
         var enemy = playerCount[0];
@@ -163,6 +164,7 @@ function update() {
 
         }
     }
+    
 
     if (checked == true) {
         if (self.getHeldControls().LEFT == false) {
@@ -170,6 +172,7 @@ function update() {
             checked = false;
         }
     }
+    */
 
 	if (animTimer > 0) {
         animTimer -= 1;

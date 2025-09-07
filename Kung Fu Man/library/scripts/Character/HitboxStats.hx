@@ -45,22 +45,22 @@
 
 	//AERIAL ATTACKS
 	aerial_neutral: {
-		hitbox0: { damage: 4, angle: 361, baseKnockback: 35, knockbackGrowth: 30, hitstop:-1, selfHitstop:-1, limb:AttackLimb.FOOT},
-		hitbox1: { damage: 3, angle: 361, baseKnockback: 30, knockbackGrowth: 25, hitstop:-1, selfHitstop:-1, limb:AttackLimb.FOOT}
+		hitbox0: { damage: 8, angle: 361, baseKnockback: 40, knockbackGrowth: 45, hitstop:-1, selfHitstop:-1, limb:AttackLimb.FOOT},
+		hitbox1: { damage: 4, angle: 361, baseKnockback: 40, knockbackGrowth: 45, hitstop:-1, selfHitstop:-1, limb:AttackLimb.FOOT}
 	},
 	aerial_forward: {
-		hitbox0: { damage: 4, angle: 361, knockbackGrowth: 40, baseKnockback: 35, hitstop: -1, selfHitstop: -1, limb:AttackLimb.FOOT },
+		hitbox0: { damage: 16, angle: 40, knockbackGrowth: 50, baseKnockback: 60, hitstop: -1, selfHitstop: -1, limb:AttackLimb.FOOT },
 		hitbox1: { damage: 5, angle: 361, knockbackGrowth: 50, baseKnockback: 40, hitstop: -1, selfHitstop: -1, limb:AttackLimb.FOOT}
 	},
 	aerial_back: {
-		hitbox0: { damage: 6, angle: 270, knockbackGrowth: 50, baseKnockback: 30, hitstop: -1, selfHitstop: -1, limb:AttackLimb.FOOT }
+		hitbox0: { damage: 8, angle: 40, baseKnockback: 45, knockbackGrowth: 70, hitstop:-1, selfHitstop:-1,  limb:AttackLimb.FOOT },
+		hitbox1: { damage: 8, angle: 40, baseKnockback: 50, knockbackGrowth: 75, hitstop:-1, selfHitstop:-1, limb:AttackLimb.FOOT }
 	},
 	aerial_up: {
-		hitbox0: { damage: 8, knockbackGrowth: 50, baseKnockback: 45, hitstop: -1, selfHitstop:-1, angle: 70, limb:AttackLimb.FIST}
+		hitbox0: { damage: 9, knockbackGrowth: 70, baseKnockback: 50, hitstop: -1, selfHitstop:-1, angle: 70, limb:AttackLimb.FIST}
 	},
 	aerial_down: {
-		hitbox0: { damage: 5, angle: 361, baseKnockback: 40, knockbackGrowth: 30, hitstop:-1, selfHitstop:-1,  limb:AttackLimb.FOOT },
-		hitbox1: { damage: 6, angle: 361, baseKnockback: 45, knockbackGrowth: 40, hitstop:-1, selfHitstop:-1, limb:AttackLimb.FOOT }
+		hitbox0: { damage: 10, angle: 270, knockbackGrowth: 45, baseKnockback: 20, hitstop: -1, selfHitstop: -1, limb:AttackLimb.FOOT }
 	},
 
 	//SPECIAL ATTACKS

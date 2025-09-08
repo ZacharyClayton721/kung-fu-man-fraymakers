@@ -45,22 +45,22 @@
 
 	//AERIAL ATTACKS
 	aerial_neutral: {
-		hitbox0: { damage: 8, angle: 361, baseKnockback: 40, knockbackGrowth: 45, hitstop:-1, selfHitstop:-1, limb:AttackLimb.FOOT},
-		hitbox1: { damage: 4, angle: 361, baseKnockback: 40, knockbackGrowth: 45, hitstop:-1, selfHitstop:-1, limb:AttackLimb.FOOT}
+		hitbox0: { damage: 8, angle: 361, baseKnockback: 40, knockbackGrowth: 45, hitstop:-1, hitstopOffset:3, selfHitstop:-1, selfHitstopOffset:3, limb:AttackLimb.FOOT},
+		hitbox1: { damage: 8, angle: 361, baseKnockback: 40, knockbackGrowth: 45, hitstop:-1, hitstopOffset:3, selfHitstop:-1, selfHitstopOffset:3, limb:AttackLimb.FOOT}
 	},
 	aerial_forward: {
-		hitbox0: { damage: 8, angle: 35, knockbackGrowth: 20, baseKnockback: 50, hitstop: -1, selfHitstop: -1, limb:AttackLimb.FOOT },
-		hitbox1: { damage: 8, angle: 35, knockbackGrowth: 20, baseKnockback: 50, hitstop: -1, selfHitstop: -1, limb:AttackLimb.FOOT}
+		hitbox0: { damage: 7, angle: 35, knockbackGrowth: 20, baseKnockback: 55, hitstop:-1, hitstopOffset:3, selfHitstop:-1, selfHitstopOffset:3, limb:AttackLimb.FOOT },
+		hitbox1: { damage: 7, angle: 35, knockbackGrowth: 20, baseKnockback: 55, hitstop:-1, hitstopOffset:3, selfHitstop:-1, selfHitstopOffset:3, limb:AttackLimb.FOOT}
 	},
 	aerial_back: {
-		hitbox0: { damage: 8, angle: 40, baseKnockback: 45, knockbackGrowth: 70, hitstop:-1, selfHitstop:-1,  limb:AttackLimb.FOOT },
-		hitbox1: { damage: 8, angle: 40, baseKnockback: 50, knockbackGrowth: 75, hitstop:-1, selfHitstop:-1, limb:AttackLimb.FOOT }
+		hitbox0: { damage: 10, angle: 40, baseKnockback: 45, knockbackGrowth: 70, hitstop:-1, hitstopOffset:5, selfHitstop:-1, selfHitstopOffset:5,  limb:AttackLimb.FOOT },
+		hitbox1: { damage: 10, angle: 40, baseKnockback: 50, knockbackGrowth: 75, hitstop:-1, hitstopOffset:5, selfHitstop:-1, selfHitstopOffset:5, limb:AttackLimb.FOOT }
 	},
 	aerial_up: {
-		hitbox0: { damage: 9, knockbackGrowth: 70, baseKnockback: 50, hitstop: -1, selfHitstop:-1, angle: 70, limb:AttackLimb.FIST}
+		hitbox0: { damage: 8, knockbackGrowth: 70, baseKnockback: 50, hitstop:-1, hitstopOffset:4, selfHitstop:-1, selfHitstopOffset:4, angle: 70, limb:AttackLimb.FIST}
 	},
 	aerial_down: {
-		hitbox0: { damage: 10, angle: 270, knockbackGrowth: 45, baseKnockback: 20, hitstop: -1, selfHitstop: -1, limb:AttackLimb.FOOT }
+		hitbox0: { damage: 12, angle: 270, knockbackGrowth: 45, baseKnockback: 20, hitstop:-1, hitstopOffset:6, selfHitstop:-1, selfHitstopOffset:6, limb:AttackLimb.FOOT }
 	},
 
 	//SPECIAL ATTACKS

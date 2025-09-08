@@ -59,7 +59,7 @@
     },
     {
       "id": "build1",
-      "path": "../../../../../Program Files (x86)/Steam/steamapps/common/Fraymakers/custom/Kung Fu Man"
+      "path": "../../../../../../Program Files (x86)/Steam/steamapps/common/Fraymakers/custom/Kung Fu Man"
     }
   ],
   "snapToPixel": true,

@@ -29114,7 +29114,7 @@
     },
     {
       "$id": "86aeaf18-5079-45fa-a29c-38c7ad532628",
-      "code": "self.reactivateHitboxes();\r\nself.updateHitboxStats(0, {damage: 12, knockbackGrowth: 70, baseKnockback: 75, hitstop: -1, selfHitstop: -1, angle: 80});",
+      "code": "self.reactivateHitboxes();\r\nself.updateHitboxStats(0, {damage: 12, knockbackGrowth: 70, baseKnockback: 75, hitstop:-1, hitstopOffset:7, selfHitstop:-1, selfHitstopOffset:7, angle: 80});",
       "length": 30,
       "pluginMetadata": {
       },

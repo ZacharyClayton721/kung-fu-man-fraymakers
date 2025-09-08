@@ -2,16 +2,16 @@
 {
 	//LIGHT ATTACKS
 	jab1: {
-		hitbox0: { damage: 2, angle: 80, baseKnockback: 30, knockbackGrowth: 25, hitstop: -1, selfHitstop: -1, limb:AttackLimb.FIST }
+		hitbox0: { damage: 2, angle: 80, baseKnockback: 30, knockbackGrowth: 25, hitstop:-1, hitstopOffset:1, selfHitstop:-1, selfHitstopOffset:1, limb:AttackLimb.FIST }
 	},
 	jab2: {
-		hitbox0: { damage: 3, angle: 80, baseKnockback: 30, knockbackGrowth: 25, hitstop: -1, selfHitstop: -1, limb:AttackLimb.FIST },
-		hitbox1: { damage: 3, angle: 80, baseKnockback: 30, knockbackGrowth: 25, hitstop: -1, selfHitstop: -1, limb:AttackLimb.FIST },
-		hitbox2: { damage: 3, angle: 80, baseKnockback: 30, knockbackGrowth: 25, hitstop: -1, selfHitstop: -1, limb:AttackLimb.FIST }
+		hitbox0: { damage: 3, angle: 80, baseKnockback: 30, knockbackGrowth: 25, hitstop:-1, hitstopOffset:1, selfHitstop:-1, selfHitstopOffset:1, limb:AttackLimb.FIST },
+		hitbox1: { damage: 3, angle: 80, baseKnockback: 30, knockbackGrowth: 25, hitstop:-1, hitstopOffset:1, selfHitstop:-1, selfHitstopOffset:1, limb:AttackLimb.FIST },
+		hitbox2: { damage: 3, angle: 80, baseKnockback: 30, knockbackGrowth: 25, hitstop:-1, hitstopOffset:1, selfHitstop:-1, selfHitstopOffset:1, limb:AttackLimb.FIST }
 	},
 	jab3: {
-		hitbox0: { damage: 8, angle: 65, baseKnockback: 45, knockbackGrowth: 40, hitstop: -1, selfHitstop: -1, limb:AttackLimb.FOOT },
-		hitbox1: { damage: 10, angle: 65, baseKnockback: 60, knockbackGrowth: 60, hitstop: -1, selfHitstop: -1, limb:AttackLimb.FOOT }
+		hitbox0: { damage: 8, angle: 55, baseKnockback: 65, knockbackGrowth: 40, hitstop:-1, hitstopOffset:3, selfHitstop:-1, selfHitstopOffset:3, limb:AttackLimb.FOOT },
+		hitbox1: { damage: 8, angle: 55, baseKnockback: 65, knockbackGrowth: 40, hitstop:-1, hitstopOffset:3, selfHitstop:-1, selfHitstopOffset:3, limb:AttackLimb.FOOT }
 	},
 	dash_attack: {
 		hitbox0: {damage: 11, angle: 45, baseKnockback: 55, knockbackGrowth: 80, hitstop:-1, selfHitstop:-1, limb:AttackLimb.FOOT }

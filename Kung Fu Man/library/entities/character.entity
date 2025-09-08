@@ -8920,7 +8920,7 @@
     },
     {
       "$id": "878a2e12-c452-44f8-b36f-1007b5962786",
-      "length": 6,
+      "length": 12,
       "pluginMetadata": {
       },
       "symbol": "fb014dbb-d849-4541-acdf-7269441dcd4f",
@@ -8930,7 +8930,7 @@
     },
     {
       "$id": "57a639f9-96f7-4144-8002-afd75ab8fb28",
-      "length": 6,
+      "length": 12,
       "pluginMetadata": {
       },
       "symbol": "ff705a9c-01d9-4301-ac56-03fc115391fc",
@@ -8940,7 +8940,7 @@
     },
     {
       "$id": "a032ebac-1d08-4be2-a660-01e6176154f8",
-      "length": 6,
+      "length": 12,
       "pluginMetadata": {
       },
       "symbol": "7cc941ec-5862-4f30-b669-b696cfd82bab",
@@ -8950,7 +8950,7 @@
     },
     {
       "$id": "b6baeeac-8f0f-4150-9804-aa52b70f8852",
-      "length": 6,
+      "length": 12,
       "pluginMetadata": {
       },
       "symbol": null,
@@ -8960,7 +8960,7 @@
     },
     {
       "$id": "db65e8aa-32ad-4b09-a067-480c8eb1fd74",
-      "length": 6,
+      "length": 12,
       "pluginMetadata": {
       },
       "symbol": null,
@@ -8970,7 +8970,7 @@
     },
     {
       "$id": "cfdd90ab-db9d-4810-b439-b985db708b1e",
-      "length": 6,
+      "length": 12,
       "pluginMetadata": {
       },
       "symbol": null,
@@ -8980,7 +8980,7 @@
     },
     {
       "$id": "7469cd8b-91e4-4b65-8ac3-4cc4c03c6024",
-      "length": 6,
+      "length": 12,
       "pluginMetadata": {
       },
       "symbol": null,
@@ -36357,7 +36357,7 @@
     {
       "$id": "988f235a-b791-4975-985d-1bde23fd6048",
       "code": "",
-      "length": 2,
+      "length": 7,
       "pluginMetadata": {
       },
       "type": "FRAME_SCRIPT"
@@ -36365,7 +36365,7 @@
     {
       "$id": "0cf63081-fbc3-43ee-8f45-50a37c3677b1",
       "code": "if (self.isFacingLeft()) {\r\n    self.faceRight();\r\n} else {\r\n    self.faceLeft();\r\n}",
-      "length": 28,
+      "length": 29,
       "pluginMetadata": {
       },
       "type": "FRAME_SCRIPT"

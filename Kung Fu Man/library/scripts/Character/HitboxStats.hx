@@ -65,12 +65,12 @@
 
 	//SPECIAL ATTACKS
 	special_neutral: {
-		hitbox0: {damage: 10, angle: 30, baseKnockback: 60, knockbackGrowth: 45, hitstop: -1, selfHitstop:-1, limb:AttackLimb.FIST},
-		hitbox1: {damage: 14, angle: 30, baseKnockback: 60, knockbackGrowth: 55, hitstop: -1, selfHitstop:-1, limb:AttackLimb.FIST}
+		hitbox0: {damage: 12, angle: 26, baseKnockback: 72, knockbackGrowth: 30, hitstop:-1, hitstopOffset:7, selfHitstop:-1, selfHitstopOffset:7, limb:AttackLimb.FIST},
+		hitbox1: {damage: 15, angle: 30, baseKnockback: 72, knockbackGrowth: 40, hitstop:-1, hitstopOffset:7, selfHitstop:-1, selfHitstopOffset:7, limb:AttackLimb.FIST}
 	},
 	special_neutral_air: {
-		hitbox0: {damage: 12, angle: 30, baseKnockback: 60, knockbackGrowth: 55, hitstop: -1, selfHitstop:-1, limb:AttackLimb.FOOT},
-		hitbox1: {damage: 15, angle: 30, baseKnockback: 70, knockbackGrowth: 75, hitstop: -1, selfHitstop:-1, limb:AttackLimb.FOOT}
+		hitbox0: {damage: 12, angle: 26, baseKnockback: 72, knockbackGrowth: 30, hitstop:-1, hitstopOffset:7, selfHitstop:-1, selfHitstopOffset:7, limb:AttackLimb.FIST},
+		hitbox1: {damage: 15, angle: 30, baseKnockback: 72, knockbackGrowth: 40, hitstop:-1, hitstopOffset:7, selfHitstop:-1, selfHitstopOffset:7, limb:AttackLimb.FIST}
 	},
 	special_side: {
 		hitbox0: { damage: 7, knockbackGrowth: 35, baseKnockback: 70, hitstop: -1, selfHitstop:-1, hitstun: -1, angle: 25, limb:AttackLimb.FIST, reversibleAngle: false,}

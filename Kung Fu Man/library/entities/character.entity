@@ -36114,16 +36114,8 @@
       "type": "FRAME_SCRIPT"
     },
     {
-      "$id": "15d6d161-d79f-44b2-a42c-57d350357e0f",
-      "code": "",
-      "length": 17,
-      "pluginMetadata": {
-      },
-      "type": "FRAME_SCRIPT"
-    },
-    {
       "$id": "02ec3f0a-7218-4d60-8137-1a7280d1f664",
-      "code": "AudioClip.play(self.getResource().getContent(\"special_side\"));",
+      "code": "AudioClip.play(self.getResource().getContent(\"special_side\"));\r\nself.updateAnimationStats({bodyStatus: BodyStatus.NONE});",
       "length": 1,
       "pluginMetadata": {
       },
@@ -36132,15 +36124,7 @@
     {
       "$id": "ab2a0573-a457-4346-a23f-cbe7401cf922",
       "code": "",
-      "length": 17,
-      "pluginMetadata": {
-      },
-      "type": "FRAME_SCRIPT"
-    },
-    {
-      "$id": "afd7a699-2360-41ba-b9a5-acf312366cfd",
-      "code": "AudioClip.play(self.getResource().getContent(\"special_side\"));",
-      "length": 1,
+      "length": 4,
       "pluginMetadata": {
       },
       "type": "FRAME_SCRIPT"
@@ -36900,6 +36884,38 @@
       "tweenType": "LINEAR",
       "tweened": false,
       "type": "COLLISION_BOX"
+    },
+    {
+      "$id": "a67d3de0-1de2-463b-b4ad-124e2d9108d9",
+      "code": "self.updateAnimationStats({bodyStatus: BodyStatus.SUPER_ARMOR});\r\nvar hitPrev = false;\r\nself.addEventListener(GameObjectEvent.HIT_RECEIVED, function() {\r\n    if (hitPrev == false) {\r\n        hitPrev = true;\r\n    } else {\r\n        self.updateAnimationStats({bodyStatus: BodyStatus.NONE});\r\n    }\r\n    \r\n});",
+      "length": 13,
+      "pluginMetadata": {
+      },
+      "type": "FRAME_SCRIPT"
+    },
+    {
+      "$id": "eb34dc46-c4cb-4f78-bc69-fb2264e83f22",
+      "code": "",
+      "length": 4,
+      "pluginMetadata": {
+      },
+      "type": "FRAME_SCRIPT"
+    },
+    {
+      "$id": "e6a54bbf-9a51-4032-a0bb-391f682da52d",
+      "code": "self.updateAnimationStats({bodyStatus: BodyStatus.SUPER_ARMOR});\r\nvar hitPrev = false;\r\nself.addEventListener(GameObjectEvent.HIT_RECEIVED, function() {\r\n    if (hitPrev == false) {\r\n        hitPrev = true;\r\n    } else {\r\n        self.updateAnimationStats({bodyStatus: BodyStatus.NONE});\r\n    }\r\n    \r\n});\r\n",
+      "length": 13,
+      "pluginMetadata": {
+      },
+      "type": "FRAME_SCRIPT"
+    },
+    {
+      "$id": "960047ab-ca5e-4c2f-b61f-22cdf236f837",
+      "code": "AudioClip.play(self.getResource().getContent(\"special_side\"));\r\nself.updateAnimationStats({bodyStatus: BodyStatus.NONE});",
+      "length": 1,
+      "pluginMetadata": {
+      },
+      "type": "FRAME_SCRIPT"
     }
   ],
   "layers": [
@@ -50406,7 +50422,8 @@
       "$id": "2fb4c758-54c6-4f51-be87-f41ad7ca3a89",
       "hidden": false,
       "keyframes": [
-        "15d6d161-d79f-44b2-a42c-57d350357e0f",
+        "eb34dc46-c4cb-4f78-bc69-fb2264e83f22",
+        "a67d3de0-1de2-463b-b4ad-124e2d9108d9",
         "02ec3f0a-7218-4d60-8137-1a7280d1f664"
       ],
       "language": "hscript",
@@ -50421,7 +50438,8 @@
       "hidden": false,
       "keyframes": [
         "ab2a0573-a457-4346-a23f-cbe7401cf922",
-        "afd7a699-2360-41ba-b9a5-acf312366cfd"
+        "e6a54bbf-9a51-4032-a0bb-391f682da52d",
+        "960047ab-ca5e-4c2f-b61f-22cdf236f837"
       ],
       "language": "hscript",
       "locked": false,

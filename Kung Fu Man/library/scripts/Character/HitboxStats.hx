@@ -14,19 +14,19 @@
 		hitbox1: { damage: 8, angle: 55, baseKnockback: 65, knockbackGrowth: 40, hitstop:-1, hitstopOffset:3, selfHitstop:-1, selfHitstopOffset:3, limb:AttackLimb.FOOT }
 	},
 	dash_attack: {
-		hitbox0: {damage: 11, angle: 45, baseKnockback: 55, knockbackGrowth: 80, hitstop:-1, selfHitstop:-1, limb:AttackLimb.FOOT }
+		hitbox0: {damage: 11, angle: 45, baseKnockback: 55, knockbackGrowth: 90, hitstop:-1, selfHitstop:-1, limb:AttackLimb.FOOT }
 	},	
 	tilt_forward: {
-		hitbox0: { damage: 9, knockbackGrowth: 40, baseKnockback: 65, angle: 35, limb:AttackLimb.FIST }
+		hitbox0: { damage: 9, knockbackGrowth: 62, baseKnockback: 62, angle: 35, hitstop:-1, hitstopOffset:3, selfHitstop:-1, selfHitstopOffset:3, limb:AttackLimb.FIST }
 	},
 	tilt_up: {
-		hitbox0: { damage: 8, knockbackGrowth: 55, baseKnockback: 55, angle: 70, limb:AttackLimb.FIST },
-		hitbox1: { damage: 6, knockbackGrowth: 50, baseKnockback: 40, angle: 65, limb:AttackLimb.FIST },
+		hitbox0: { damage: 8, knockbackGrowth: 75, baseKnockback: 50, angle: 70, hitstop:-1, hitstopOffset:3, selfHitstop:-1, selfHitstopOffset:3, limb:AttackLimb.FIST },
+		hitbox1: { damage: 8, knockbackGrowth: 75, baseKnockback: 50, angle: 70, hitstop:-1, hitstopOffset:3, selfHitstop:-1, selfHitstopOffset:3, limb:AttackLimb.FIST },
 	},
 	tilt_down: {
-		hitbox0: { damage: 5, angle: 65, baseKnockback: 65, knockbackGrowth: 60, hitstop: -1, selfHitstop: -1, limb:AttackLimb.FOOT},
-		hitbox1: { damage: 5, angle: 65, baseKnockback: 65, knockbackGrowth: 60, hitstop: -1, selfHitstop: -1, limb:AttackLimb.FOOT},
-		hitbox1: { damage: 5, angle: 65, baseKnockback: 65, knockbackGrowth: 60, hitstop: -1, selfHitstop: -1, limb:AttackLimb.FOOT}
+		hitbox0: { damage: 5, angle: 78, baseKnockback: 58, knockbackGrowth: 25, hitstop:-1, hitstopOffset:2, selfHitstop:-1, selfHitstopOffset:2, limb:AttackLimb.FOOT},
+		hitbox1: { damage: 5, angle: 78, baseKnockback: 58, knockbackGrowth: 25, hitstop:-1, hitstopOffset:2, selfHitstop:-1, selfHitstopOffset:2, limb:AttackLimb.FOOT},
+		hitbox1: { damage: 5, angle: 78, baseKnockback: 58, knockbackGrowth: 25, hitstop:-1, hitstopOffset:2, selfHitstop:-1, selfHitstopOffset:2, limb:AttackLimb.FOOT}
 	},
 
 	//STRONG ATTACKS

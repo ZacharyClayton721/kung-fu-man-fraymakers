@@ -14,7 +14,7 @@
 		hitbox1: { damage: 8, angle: 55, baseKnockback: 65, knockbackGrowth: 40, hitstop:-1, hitstopOffset:3, selfHitstop:-1, selfHitstopOffset:3, limb:AttackLimb.FOOT }
 	},
 	dash_attack: {
-		hitbox0: {damage: 11, angle: 45, baseKnockback: 55, knockbackGrowth: 90, hitstop:-1, selfHitstop:-1, limb:AttackLimb.FOOT }
+		hitbox0: {damage: 10, angle: 45, baseKnockback: 72, knockbackGrowth: 53, hitstop:-1, hitstopOffset:5, selfHitstop:-1, selfHitstopOffset:5, limb:AttackLimb.FOOT }
 	},	
 	tilt_forward: {
 		hitbox0: { damage: 9, knockbackGrowth: 62, baseKnockback: 62, angle: 35, hitstop:-1, hitstopOffset:3, selfHitstop:-1, selfHitstopOffset:3, limb:AttackLimb.FIST }

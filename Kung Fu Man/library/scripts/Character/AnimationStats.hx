@@ -56,7 +56,7 @@
 	jab1: {},
 	jab2: {},
 	jab3: {},
-	dash_attack: {xSpeedConservation: 1.25, leaveGroundCancel:false},
+	dash_attack: {xSpeedConservation: 1.5},
 	tilt_forward: {},
 	tilt_up: {},
 	tilt_down: {},

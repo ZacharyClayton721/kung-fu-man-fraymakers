@@ -89,11 +89,15 @@
 		hitbox0: {damage: 10, knockbackGrowth: 65, baseKnockback: 60, hitstop: -1, selfHitstop: -1, hitstun: -1, reversibleAngle: false, angle: 85, limb:AttackLimb.FIST}
 	}, 
 
-	special_down: {
-		hitbox0: { damage:4, angle:25, baseKnockback: 70, knockbackGrowth: 0, hitstop: -1, selfHitstop: -1, reversibleAngle: false}
+	special_down_attack: {
+		hitbox0: {damage: 8, knockbackGrowth: 30, baseKnockback: 85, hitstop:-1, hitstopOffset:6, selfHitstop:-1, selfHitstopOffset:6, angle: 55, reversibleAngle: false}
 	}, 
-	special_down_air: {
-		hitbox0: { damage:4, angle:25, baseKnockback: 75, knockbackGrowth: 0, hitstop: -1, selfHitstop: -1, reversibleAngle: false}
+	special_down_air_attack: {
+		hitbox0: {damage: 8, knockbackGrowth: 30, baseKnockback: 85, hitstop:-1, hitstopOffset:6, selfHitstop:-1, selfHitstopOffset:6, angle: 55, reversibleAngle: false}
+	},
+
+	special_down_clutch_attack: {
+		hitbox0: {damage: 8, knockbackGrowth: 30, baseKnockback: 85, hitstop:-1, hitstopOffset:6, selfHitstop:-1, selfHitstopOffset:6, angle: 55, reversibleAngle: false}
 	},
 
 	//SUPERS

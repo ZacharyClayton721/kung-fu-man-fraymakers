@@ -94,8 +94,13 @@
 	special_up_air_kick: {allowMovement: true, nextState:CState.FALL_SPECIAL, landType:LandType.AUTO, landAnimation:"knee_land"}, 
 	special_side: {xSpeedConservation: 1.25},
 	special_side_air: {leaveGroundCancel:false, xSpeedConservation: 1, landType:LandType.LINK_FRAMES, landAnimation:"special_side"}, 
-	special_down: {allowTurnOnFirstFrame: true}, 
-	special_down_air: {allowFastFall:false, allowTurnOnFirstFrame: true, leaveGroundCancel:false, landType:LandType.LINK_FRAMES, landAnimation:"special_down"},
+	special_down: {allowMovement: false, allowTurnOnFirstFrame: true, nextAnimation: "special_down_loop"}, 
+	special_down_loop: {allowMovement: false, chargeFramesMax: 60, chargeGlow: true, chargeShake: true}, 
+	special_down_attack: {allowMovement: false}, 
+	special_down_air: {allowMovement: false, allowTurnOnFirstFrame: true, nextAnimation: "special_down_air_loop", landType:LandType.LINK_FRAMES, landAnimation:"special_down", gravityMultiplier: .1, singleUse:true}, 
+	special_down_air_loop: {allowMovement: false, chargeFramesMax: 60, chargeGlow: true, chargeShake: true, landType:LandType.LINK_FRAMES, landAnimation:"special_down_loop", gravityMultiplier: .1}, 
+	special_down_air_attack: {allowMovement: false, landType:LandType.LINK_FRAMES, landAnimation:"special_down_attack"},
+	special_down_clutch_attack: {allowMovement: false, slideOff: true},
 
 	//SUPERS
 	super1_freeze:  {allowTurnOnFirstFrame: false, allowMovement: false, endType:AnimationEndType.AUTO, nextAnimation:'super1',interruptible:false},
